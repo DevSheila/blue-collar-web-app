@@ -1,9 +1,10 @@
 import { MdEmail } from "react-icons/md";
 import { RiLockPasswordFill } from "react-icons/ri";
 import React, { useState, useEffect } from "react";
-import { useRouter } from "next/router";
-import { useUser } from "../lib/hooks";
 import Link from 'next/link';
+import { useUser } from "../lib/hooks";
+import { useRouter } from "next/router";
+
 
 export default function Login() {
     const router = useRouter();

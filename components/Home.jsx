@@ -1,7 +1,7 @@
 import Link from 'next/link';
-import { useUser } from '../lib/hooks';
-import AfterLogin from '../components/AfterLogin';
 import { useState } from 'react';
+import { useUser } from '../lib/hooks';
+import afterLogin from './AfterLogin';
 
 export default function Home() {
     const [user, { mutate }] = useUser();

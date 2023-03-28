@@ -1,4 +1,5 @@
-import Setting from '../components/setting';
+import Setting from "../../components/setting";
+
 
 export default function login() {
     return (

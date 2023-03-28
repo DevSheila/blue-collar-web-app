@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import { useUser } from '../lib/hooks';
 import { IoMdSend } from 'react-icons/io'
+import { useUser } from '../lib/hooks';
 
 export default function afterLogin() {
     const [errorMsg, setErrorMsg] = useState("");

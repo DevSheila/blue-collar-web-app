@@ -5,9 +5,9 @@ import { AiTwotoneHome } from 'react-icons/ai';
 import { FaFacebook, FaGithub, FaLinkedin, FaInstagram } from 'react-icons/fa';
 import { MdNotifications } from 'react-icons/md';
 import Router from 'next/router';
-import { useUser } from "../lib/hooks";
 import Link from 'next/link';
 import { useRouter } from 'next/router'
+import { useUser } from '../lib/hooks';
 
 export default function Layout({ children }) {
     const [user, { mutate }] = useUser();

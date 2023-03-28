@@ -3,8 +3,9 @@ import { FaUserCircle } from "react-icons/fa";
 import { MdEmail, MdCake } from "react-icons/md";
 import { RiLockPasswordFill, RiLockPasswordLine } from "react-icons/ri";
 import Router from "next/router";
-import { useUser } from "../lib/hooks";
 import Link from "next/link";
+import { useUser } from "../lib/hooks";
+useUser
 
 export default function Login() {
     const [user, { mutate }] = useUser();
