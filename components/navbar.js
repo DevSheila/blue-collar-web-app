@@ -1,21 +1,23 @@
 import { useState } from "react"
-export default function Navbar(){
 
-    const [isAuth,setisAuth] = useState(false)
+export default function Navbar() {
 
-    function toggleAuth(){
-        setisAuth(!isAuth)
+const [isAuthenticated, setIsAuthenticated] = useState(false)
+
+    function toggleAuthenticated () {
+
+        setIsAuthenticated(!isAuthenticated)
     }
-    return(
+
+  return (
     <nav className="flex justify-between px-10 py-7 bg-slate-300">
+      <h1 className="text-purple-500 text-2xl font-bold">Banter</h1>
 
-        <h1 className="text-purple-500 text-2xl font-bold">Banter</h1>
-
+      <button onClick={toggleAuthenticated}>
         {
-            isAuth === true ? <button onClick={toggleAuth}>
-                Sign In
-            </button> : <p>You are not signed in</p>
+            isAuthenticated === true ? "Sign Out" : "Sign In"
         }
+      </button>
     </nav>
-    )
+  )
 }
