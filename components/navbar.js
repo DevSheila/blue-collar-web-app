@@ -11,7 +11,7 @@ const [isAuthenticated, setIsAuthenticated] = useState(false)
 
   return (
     <nav className="flex justify-between px-10 py-7 bg-slate-300">
-      <h1 className="text-purple-500 text-2xl font-bold">Banter</h1>
+      <h1 className="text-purple-500 text-2xl font-bold">HANDYMAN</h1>
 
       <button onClick={toggleAuthenticated}>
         {

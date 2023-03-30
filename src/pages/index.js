@@ -15,7 +15,7 @@ export default function Home() {
   return (
     <>
      <Navbar/>
-     <button onClick={fetchName}>Get name</button>
+    
     
     <Works/>
 
