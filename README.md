@@ -1,4 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+##HUSTLE HUB
+
+## Table of contents
+* [Technologies](#technologies)
+* [Getting Started] 
+* [Features](#features)
+*[Schema](#schema)
+## Technologies
+
+1. React
+1.Next JS
+1.Prisma
+1.Mapbox
+1.Tailwind CSS
+1.Mongo Db
 
 ## Getting Started
 
@@ -12,21 +26,11 @@ yarn dev
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
 
 ## FEATURES
-1.Authentication: The MVP will include a robust authentication system that ensures the security and privacy of user data. Users will be required to sign up for an account with their email address or phone number, and they will need to verify their identity through a secure verification process.
+1. Authentication: The MVP will include a robust authentication system that ensures the security and privacy of user data. Users will be required to sign up for an account with their email address or phone number, and they will need to verify their identity through a secure verification process.
  
-2.Booking Process: The MVP will include a simple and intuitive booking process that enables clients to select the work category they require, schedule the appointment, and appoint a handyman. The booking process will include the following steps:
+2. Booking Process: The MVP will include a simple and intuitive booking process that enables clients to select the work category they require, schedule the appointment, and appoint a handyman. The booking process will include the following steps:
  
 Select Work Category: Users will be able to select the specific work category they require from a list of options, such as plumbing, electrical, carpentry, etc.
 Schedule: Users will be able to select the date and time that they require the service, and the system will show them the available time slots.
