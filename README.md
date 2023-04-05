@@ -1,8 +1,8 @@
-##HUSTLE HUB
+#### HUSTLE HUB
 
 ## Table of contents
 * [Technologies](#technologies)
-* [Getting Started] 
+* [SETUP](#setup)
 * [Features](#features)
 *[Schema](#schema)
 ## Technologies
@@ -14,7 +14,7 @@
 1.Tailwind CSS
 1.Mongo Db
 
-## Getting Started
+## SETUP
 
 First, run the development server:
 
@@ -35,5 +35,5 @@ Select Work Category: Users will be able to select the specific work category th
 Schedule: Users will be able to select the date and time that they require the service, and the system will show them the available time slots.
 Appoint Handyman: Users will be presented with a list of verified handymen who match their requirements, and they will be able to choose the one they want to hire based on their profile, experience, and ratings.
 
-##SCHEMA
-![Alt text](http://full/path/to/img.jpg "Schema Diagram")
+## SCHEMA
+![Alt text](https://github.com/DevSheila/blue-collar-web-app/blob/main/public/screenshots/Schema1.png "Schema Diagram")
