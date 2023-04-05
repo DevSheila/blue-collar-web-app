@@ -22,17 +22,12 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## FEATURES
+1.Authentication: The MVP will include a robust authentication system that ensures the security and privacy of user data. Users will be required to sign up for an account with their email address or phone number, and they will need to verify their identity through a secure verification process.
+ 
+2.Booking Process: The MVP will include a simple and intuitive booking process that enables clients to select the work category they require, schedule the appointment, and appoint a handyman. The booking process will include the following steps:
+ 
+Select Work Category: Users will be able to select the specific work category they require from a list of options, such as plumbing, electrical, carpentry, etc.
+Schedule: Users will be able to select the date and time that they require the service, and the system will show them the available time slots.
+Appoint Handyman: Users will be presented with a list of verified handymen who match their requirements, and they will be able to choose the one they want to hire based on their profile, experience, and ratings.
