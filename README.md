@@ -1,4 +1,4 @@
-#### HUSTLE HUB
+### HUSTLE HUB
 
 ## Project Description
 
