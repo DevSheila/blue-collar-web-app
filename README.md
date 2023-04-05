@@ -36,4 +36,5 @@ Schedule: Users will be able to select the date and time that they require the s
 Appoint Handyman: Users will be presented with a list of verified handymen who match their requirements, and they will be able to choose the one they want to hire based on their profile, experience, and ratings.
 
 ## SCHEMA
+
 ![Alt text](https://github.com/DevSheila/blue-collar-web-app/blob/main/public/screenshots/Schema1.png "Schema Diagram")
