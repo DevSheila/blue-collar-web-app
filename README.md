@@ -1,10 +1,17 @@
 #### HUSTLE HUB
 
+## Project Description
+
+"Revolutionizing the blue-collar industry in Kenya with a centralized web app connecting handymen to clients."
+
+Our project is a blue-collar web app designed to connect skilled handymen with potential clients in Kenya. By providing a centralized platform for booking and scheduling services, along with a verification process to ensure the trustworthiness of handymen, our app addresses the problem of unemployment and underemployment among handymen while also providing a convenient and reliable service for clients. 
+
 ## Table of contents
 * [Technologies](#technologies)
 * [SETUP](#setup)
 * [Features](#features)
-*[Schema](#schema)
+* [Schema](#schema)
+* 
 ## Technologies
 
 1. React
@@ -36,5 +43,7 @@ Schedule: Users will be able to select the date and time that they require the s
 Appoint Handyman: Users will be presented with a list of verified handymen who match their requirements, and they will be able to choose the one they want to hire based on their profile, experience, and ratings.
 
 ## SCHEMA
+
+Link to schema :https://dbdiagram.io/d/642313385758ac5f1724d7a8
 
 ![Alt text](https://github.com/DevSheila/blue-collar-web-app/blob/main/public/screenshots/Schema1.png "Schema Diagram")
