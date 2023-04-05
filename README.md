@@ -26,7 +26,6 @@ yarn dev
 pnpm dev
 ```
 
-
 ## FEATURES
 1. Authentication: The MVP will include a robust authentication system that ensures the security and privacy of user data. Users will be required to sign up for an account with their email address or phone number, and they will need to verify their identity through a secure verification process.
  
@@ -35,3 +34,6 @@ pnpm dev
 Select Work Category: Users will be able to select the specific work category they require from a list of options, such as plumbing, electrical, carpentry, etc.
 Schedule: Users will be able to select the date and time that they require the service, and the system will show them the available time slots.
 Appoint Handyman: Users will be presented with a list of verified handymen who match their requirements, and they will be able to choose the one they want to hire based on their profile, experience, and ratings.
+
+##SCHEMA
+![Alt text](http://full/path/to/img.jpg "Schema Diagram")
