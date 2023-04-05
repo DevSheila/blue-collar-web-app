@@ -8,22 +8,25 @@ Our project is a blue-collar web app designed to connect skilled handymen with p
 
 ## Table of contents
 * [Technologies](#technologies)
-* [SETUP](#setup)
+* [Setup](#setup)
 * [Features](#features)
 * [Schema](#schema)
-* 
+
 ## Technologies
 
 1. React
-1.Next JS
-1.Prisma
-1.Mapbox
-1.Tailwind CSS
-1.Mongo Db
+1. Next JS
+1. Prisma
+1. Mapbox
+1. Tailwind CSS
+1. Mongo Db
 
 ## SETUP
-
-First, run the development server:
+1. Clone the repo 
+```shell
+git clone https://github.com/DevSheila/blue-collar-web-app.git
+```
+1. Running on the development server:
 
 ```bash
 npm run dev
@@ -42,8 +45,24 @@ Select Work Category: Users will be able to select the specific work category th
 Schedule: Users will be able to select the date and time that they require the service, and the system will show them the available time slots.
 Appoint Handyman: Users will be presented with a list of verified handymen who match their requirements, and they will be able to choose the one they want to hire based on their profile, experience, and ratings.
 
-## SCHEMA
+## Schema
 
 Link to schema :https://dbdiagram.io/d/642313385758ac5f1724d7a8
 
 ![Alt text](https://github.com/DevSheila/blue-collar-web-app/blob/main/public/screenshots/Schema1.png "Schema Diagram")
+
+
+## Contributions Welcome
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](#)
+
+If you find any bug in the code or have any improvements in mind then feel free to generate a pull request.
+
+## Issues
+[![GitHub Issues](https://img.shields.io/github/issues/DevSheila/blue-collar-web-app.svg?style=flat&label=Issues&maxAge=2592000)](https://www.github.com/DevSheila/blue-collar-web-app)
+
+If you face any issue, you can create a new issue in the Issues Tab and we  will be glad to help you out.
+## License
+[![MIT](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=style&label=License&maxAge=2592000)](../master/LICENSE)
+
+
+
